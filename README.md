@@ -1,6 +1,6 @@
-# Hitkadmut (התקדמות)
+# Hitkadmut (הִתקַדְמוּת)
 
-> In Hebrew, "התקדמות" means "progress".
+> In Hebrew, "הִתקַדְמוּת" means "progress".
 
 Hitkadmut is a very simple Python package for effective progress bars. The main advantage over other progress bars is when you need your progress bar to quickly display, such as with jobs in Slurm clusters, where `flush=True` is required to print immediately to the log files.
 
